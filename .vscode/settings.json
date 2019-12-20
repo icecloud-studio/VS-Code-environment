@@ -1,0 +1,11 @@
+{
+    //"python.pythonPath": "E:\\Program Files\\Python38\\python.exe",
+    "files.associations": {
+        "*.c": "c",
+        "stdio.h": "c",
+        "stdlib.h": "c",
+        "type_traits": "c",
+        "conio.h": "c",
+        "acllib.h": "c"
+    }
+}
